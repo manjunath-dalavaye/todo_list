@@ -10,7 +10,7 @@
 #Here is the demo pic:
 
 
-<p align="right">
+<p align="center">
   <img width="692" alt="To-do" src="https://github.com/manjunath-dalavaye/todo_list/assets/111382056/955f1acf-93a9-4af6-80f5-8458c215bcd0">
 </p>
 
